@@ -1,8 +1,8 @@
-import Buttons from "./components/Buttons"
+import Buttons from './components/Buttons'
 function App() {
   return (
     <div className='calculator'>
-     <Buttons/>
+      <Buttons />
     </div>
   )
 }
