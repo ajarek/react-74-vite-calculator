@@ -1,4 +1,5 @@
 # react-74-vite-calculator
+https://ajarek.github.io/react-74-vite-calculator/
 
 #### Technologies used: react.
 #### Hooks used: useState.
